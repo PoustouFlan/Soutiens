@@ -1,0 +1,9 @@
+<!SLIDE form=suite_exemple>
+
+# Exemples
+
+- La suite des nombres pairs : 0, 2, 4, 6, 8, 10, …
+- La suite des nombres premiers : 2, 3, 5, 7, 11, 13, …
+- La suite de Fibonacci : 0, 1, 1, 2, 3, 5, 8, 13, …
+
+exemple -> Donnez d'autres exemples de suites = [   ]
